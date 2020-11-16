@@ -1,0 +1,31 @@
+.userCategory {
+  display: flex;
+  justify-content: center;
+}
+
+.menu {
+  border: 1px solid black;
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.menu:hover {
+  opacity: 0.8;
+}
+
+.menu p {
+  color: rgb(144, 144, 201);
+}
+
+.viewLocate {
+  display: flex;
+  justify-content: center;
+  margin-top: 3em;
+}
+
+.view {
+  width: 50%;
+}

@@ -1,0 +1,15 @@
+.category {
+  width: 6em;
+  margin-top: 2em;
+  margin-left: 4em;
+  cursor: pointer;
+}
+
+img {
+  width: 5em;
+  height: 5em;
+}
+
+img:hover {
+  opacity: 0.8;
+}
